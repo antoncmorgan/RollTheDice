@@ -1,0 +1,14 @@
+#Dependency directories
+node_modules/
+
+app/tests/TestOutput/
+
+docs/local
+
+.env
+
+# Don't allow certs
+*.csr
+*.pem
+*.crt
+*.key
